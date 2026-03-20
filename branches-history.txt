@@ -1,0 +1,84 @@
+b988263 HEAD@{0}: checkout: moving from main to feature/gitlog
+b988263 HEAD@{1}: checkout: moving from main to main
+b988263 HEAD@{2}: merge feature/badge: Merge made by the 'ort' strategy.
+2785f3e HEAD@{3}: checkout: moving from feature/badge to main
+f619d6f HEAD@{4}: commit: add: version badge
+2785f3e HEAD@{5}: checkout: moving from main to feature/badge
+2785f3e HEAD@{6}: checkout: moving from main to main
+2785f3e HEAD@{7}: merge feature/quote: Merge made by the 'ort' strategy.
+4072285 HEAD@{8}: checkout: moving from feature/quote to main
+90c37f7 HEAD@{9}: commit: add: project quote
+4072285 HEAD@{10}: checkout: moving from main to feature/quote
+4072285 HEAD@{11}: checkout: moving from main to main
+4072285 HEAD@{12}: merge feature/text-formatting: Merge made by the 'ort' strategy.
+2e14397 HEAD@{13}: checkout: moving from feature/text-formatting to main
+5cf1a30 HEAD@{14}: commit: add: text formatting examples
+2e14397 HEAD@{15}: checkout: moving from main to feature/text-formatting
+2e14397 HEAD@{16}: checkout: moving from main to main
+2e14397 HEAD@{17}: merge feature/todo-list: Merge made by the 'ort' strategy.
+157f9f9 HEAD@{18}: checkout: moving from feature/todo-list to main
+07ec549 HEAD@{19}: commit: add: todo list
+157f9f9 HEAD@{20}: checkout: moving from main to feature/todo-list
+157f9f9 HEAD@{21}: checkout: moving from main to main
+157f9f9 HEAD@{22}: merge feature/versions-table: Merge made by the 'ort' strategy.
+3be15a1 HEAD@{23}: checkout: moving from feature/versions-table to main
+0bad11f HEAD@{24}: commit: add: versions support table
+3be15a1 HEAD@{25}: checkout: moving from main to feature/versions-table
+3be15a1 HEAD@{26}: checkout: moving from main to main
+3be15a1 HEAD@{27}: merge feature/commands-table: Merge made by the 'ort' strategy.
+126bdf6 HEAD@{28}: checkout: moving from feature/commands-table to main
+6e06eef HEAD@{29}: commit: add: commands table
+126bdf6 HEAD@{30}: checkout: moving from main to feature/commands-table
+126bdf6 HEAD@{31}: checkout: moving from main to main
+126bdf6 HEAD@{32}: merge feature/image: Merge made by the 'ort' strategy.
+fe5b78e HEAD@{33}: checkout: moving from feature/image to main
+f5fe936 HEAD@{34}: commit: add: git logo image
+fe5b78e HEAD@{35}: checkout: moving from main to feature/image
+fe5b78e HEAD@{36}: checkout: moving from main to main
+fe5b78e HEAD@{37}: merge feature/repo-link: Merge made by the 'ort' strategy.
+936239e HEAD@{38}: checkout: moving from feature/repo-link to main
+ac04dbd HEAD@{39}: commit: add: repository link
+936239e HEAD@{40}: checkout: moving from main to feature/repo-link
+936239e HEAD@{41}: checkout: moving from main to main
+936239e HEAD@{42}: merge feature/contact: Merge made by the 'ort' strategy.
+8f6566f HEAD@{43}: checkout: moving from feature/contact to main
+07fca06 HEAD@{44}: commit: add: contact information with link
+8f6566f HEAD@{45}: checkout: moving from main to feature/contact
+8f6566f HEAD@{46}: checkout: moving from main to main
+8f6566f HEAD@{47}: merge feature/license: Merge made by the 'ort' strategy.
+4ac5cd2 HEAD@{48}: checkout: moving from feature/license to main
+19cec4c HEAD@{49}: commit: add: license information
+4ac5cd2 HEAD@{50}: checkout: moving from main to feature/license
+4ac5cd2 HEAD@{51}: checkout: moving from main to main
+4ac5cd2 HEAD@{52}: merge feature/contributing: Merge made by the 'ort' strategy.
+dd4ef2f HEAD@{53}: checkout: moving from feature/contributing to main
+fc832ff HEAD@{54}: commit: add: contributing guidelines
+dd4ef2f HEAD@{55}: checkout: moving from main to feature/contributing
+dd4ef2f HEAD@{56}: checkout: moving from main to main
+dd4ef2f HEAD@{57}: merge feature/usage: Merge made by the 'ort' strategy.
+bebad38 HEAD@{58}: checkout: moving from feature/usage to main
+00c0c6a HEAD@{59}: commit: add: usage example
+bebad38 HEAD@{60}: checkout: moving from main to feature/usage
+bebad38 HEAD@{61}: checkout: moving from main to main
+bebad38 HEAD@{62}: merge feature/installation: Merge made by the 'ort' strategy.
+1f7a3cc HEAD@{63}: checkout: moving from feature/installation to main
+82f9a75 HEAD@{64}: commit: add: installation instructions
+1f7a3cc HEAD@{65}: checkout: moving from main to feature/installation
+1f7a3cc HEAD@{66}: checkout: moving from main to main
+1f7a3cc HEAD@{67}: merge feature/description: Merge made by the 'ort' strategy.
+5f2bfd8 HEAD@{68}: checkout: moving from feature/description to main
+348b59d HEAD@{69}: commit: add: project description
+5f2bfd8 HEAD@{70}: checkout: moving from main to feature/description
+5f2bfd8 HEAD@{71}: checkout: moving from main to main
+5f2bfd8 HEAD@{72}: merge feature/project: Merge made by the 'ort' strategy.
+5cf6932 HEAD@{73}: checkout: moving from feature/project to main
+4161aac HEAD@{74}: commit: add: project description
+5cf6932 HEAD@{75}: checkout: moving from main to feature/project
+5cf6932 HEAD@{76}: checkout: moving from main to main
+5cf6932 HEAD@{77}: merge feature/project-title: Merge made by the 'ort' strategy.
+fde516b HEAD@{78}: checkout: moving from feature/project-title to main
+2a10060 HEAD@{79}: commit: add: project title
+fde516b HEAD@{80}: checkout: moving from main to feature/project-title
+fde516b HEAD@{81}: checkout: moving from main to main
+fde516b HEAD@{82}: checkout: moving from work to main
+fde516b HEAD@{83}: checkout: moving from master to work
