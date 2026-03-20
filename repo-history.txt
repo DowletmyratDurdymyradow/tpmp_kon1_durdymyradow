@@ -1,0 +1,65 @@
+*   b988263 merge: feature/badge
+|\  
+| * f619d6f add: version badge
+|/  
+*   2785f3e merge: feature/quote
+|\  
+| * 90c37f7 add: project quote
+|/  
+*   4072285 merge: feature/text-formatting
+|\  
+| * 5cf1a30 add: text formatting examples
+|/  
+*   2e14397 merge: feature/todo-list
+|\  
+| * 07ec549 add: todo list
+|/  
+*   157f9f9 merge: feature/versions-table
+|\  
+| * 0bad11f add: versions support table
+|/  
+*   3be15a1 merge: feature/commands-table
+|\  
+| * 6e06eef add: commands table
+|/  
+*   126bdf6 merge: feature/image
+|\  
+| * f5fe936 add: git logo image
+|/  
+*   fe5b78e merge: feature/repo-link
+|\  
+| * ac04dbd add: repository link
+|/  
+*   936239e merge: feature/contact
+|\  
+| * 07fca06 add: contact information with link
+|/  
+*   8f6566f merge: feature/license
+|\  
+| * 19cec4c add: license information
+|/  
+*   4ac5cd2 merge: feature/contributing
+|\  
+| * fc832ff add: contributing guidelines
+|/  
+*   dd4ef2f merge: feature/usage
+|\  
+| * 00c0c6a add: usage example
+|/  
+*   bebad38 merge: feature/installation
+|\  
+| * 82f9a75 add: installation instructions
+|/  
+*   1f7a3cc merge: feature/description
+|\  
+| * 348b59d add: project description
+|/  
+*   5f2bfd8 merge: feature/project
+|\  
+| * 4161aac add: project description
+|/  
+*   5cf6932 merge: feature/project-title
+|\  
+| * 2a10060 add: project title
+|/  
+* fde516b first commit
