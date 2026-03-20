@@ -1,7 +1,7 @@
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 # Мой учебный проект
-
+Отчет : https://docs.google.com/document/d/1DvgyCd5nLpMIqS99KkuqT2h-t6d5VCYI/edit?usp=drive_link&ouid=107887052123702597022&rtpof=true&sd=true
 ## Description
 Этот проект содержит простое консольное приложение на языке C.
 Программа выводит информацию о контрольной работе, учебной группе и студенте.
